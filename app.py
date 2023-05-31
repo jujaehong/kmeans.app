@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def main():
-    st.title('K-Means 클러스터링 앱')
+    st.title('K-Means 클러스터링 앱 입니다.')
 
     # 1. csv파일을 업로드 할 수 있다.
     csv_file = st.file_uploader('CSV 파일 업로드', type=['csv'])
